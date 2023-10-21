@@ -1,5 +1,5 @@
 package Day5.Assignment2.Question1;
-
+// create you own package.
 public class SaltySnacks extends Snacks {
     boolean nutIndication = false;
     int count = 0;
