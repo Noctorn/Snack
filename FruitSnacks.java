@@ -1,4 +1,4 @@
-package Day5.Assignment2.Question1;
+// package Day5.Assignment2.Question1; add your package
 
 public class FruitSnacks extends Snacks {
     boolean citrusIndication = false;
