@@ -1,5 +1,5 @@
-package Day5.Assignment2.Question1;
-
+// package Day5.Assignment2.Question1;
+// add you own package
 import java.util.Scanner;
 
 public class OrderSystem {
