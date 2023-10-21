@@ -1,5 +1,5 @@
 package Day5.Assignment2.Question1;
-
+// create you own package
 public class Snacks {
     String id;
     char size;
